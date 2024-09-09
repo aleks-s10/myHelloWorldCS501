@@ -1,1 +1,1 @@
-Download and run the main folder, or the zip file if preferred
+Download and open the zip file if preferred
